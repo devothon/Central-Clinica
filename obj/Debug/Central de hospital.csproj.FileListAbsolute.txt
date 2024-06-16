@@ -1,0 +1,12 @@
+C:\Users\othon\OneDrive\Documents\SharpDevelop Projects\Trabalhos\Trabalhos\bin\Debug\Central de hospital.exe.config
+C:\Users\othon\OneDrive\Documents\SharpDevelop Projects\Trabalhos\Trabalhos\bin\Debug\Central de hospital.exe
+C:\Users\othon\OneDrive\Documents\SharpDevelop Projects\Trabalhos\Trabalhos\bin\Debug\Central de hospital.pdb
+C:\Users\othon\OneDrive\Documents\SharpDevelop Projects\Trabalhos\Trabalhos\obj\Debug\Central de hospital.csprojResolveAssemblyReference.cache
+C:\Users\othon\OneDrive\Documents\SharpDevelop Projects\Trabalhos\Trabalhos\obj\Debug\Central de hospital.exe
+C:\Users\othon\OneDrive\Documents\SharpDevelop Projects\Trabalhos\Trabalhos\obj\Debug\Central de hospital.pdb
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Trabalhos\obj\Debug\Central de hospital.csprojResolveAssemblyReference.cache
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Trabalhos\obj\Debug\Central de hospital.exe
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Trabalhos\obj\Debug\Central de hospital.pdb
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Trabalhos\bin\Debug\Central de hospital.exe.config
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Trabalhos\bin\Debug\Central de hospital.exe
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Trabalhos\bin\Debug\Central de hospital.pdb
